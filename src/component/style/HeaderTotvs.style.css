@@ -1,0 +1,65 @@
+
+
+.main-header{
+	/* margin-top: 24px; */
+	/* z-index: 10001; */
+    /* position: fixed; */
+    height: 83px;
+    width: 100%;
+    min-height: 4em;
+    background: #019ABE;
+    /* padding: 14px 17px 0 17px; */
+	margin: 0px; 
+	/* position: absolute; */
+	/* z-index: 200; */
+	/* display: block; */
+	/* float:  top */
+	
+}
+.thinbar {
+
+	width: 105%;
+	margin:  0px;
+	/* margin-left: -300px; */
+	left: 0px;
+	position: absolute;	
+	background-color: #393939;
+	height: 23px;
+	z-index: 5000;
+}
+
+.logo-lg{
+	color: white;
+	margin-left: 0px;
+	display: inline;
+    line-height: 4.5em;
+}
+img.img-circle{
+	/* margin-right: 15px; */
+	margin-top: 33px;
+	margin-right: 105px;
+	margin-left: 21px;
+    width: 35px;
+	height: 35px;
+	float: left;
+}
+a span {
+	margin-top: 15px;
+}
+a span h2 {
+	/* margin-top: 115px; */
+   	color:  white;
+   	font-weight: 300;
+   	display: inline;
+}
+a span h2:nth-child(2) {
+	/* margin-top: 110px; */
+   	
+   	font-size: 25px
+   }
+   a span{
+   	display: block;
+   	margin-top: 20px;
+   }
+   	
+  
